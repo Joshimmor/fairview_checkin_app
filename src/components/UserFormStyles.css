@@ -1,0 +1,10 @@
+.Login-Logo{
+    width:20vw;
+    position: relative;
+    padding-bottom: 5vh;
+}
+.logo-bar{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
