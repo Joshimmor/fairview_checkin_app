@@ -1,6 +1,6 @@
 # React Step Form
 
-> Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI
+> Form with multiple steps and confirmation. Firebase Functions and config in PostToFirebase.js
 
 ## Quick Start
 
@@ -19,9 +19,7 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
+Joshua Immordino
 ### Version
 
 1.0.0
